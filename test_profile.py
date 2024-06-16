@@ -13,3 +13,9 @@ print("Hello world")
 def get_info():
   print("Hello Anatolii")
 a = 123
+<<<<<<< HEAD
+=======
+
+b = 12334
+c = "lfhjhflsahkd"
+>>>>>>> tests
