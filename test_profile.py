@@ -7,3 +7,5 @@ a = 123
 
 def get_age():
     pass
+def one_one():
+    pass
